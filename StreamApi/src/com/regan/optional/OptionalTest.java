@@ -14,7 +14,10 @@ import org.junit.Test;
 
 import com.regan.bean.Employee;
 
-public class TestOptional {
+/**
+ * @author Regan
+ */
+public class OptionalTest {
 	/**
 	 * 如果当前的对象是null,会throw NoSuchElementException
 	 */

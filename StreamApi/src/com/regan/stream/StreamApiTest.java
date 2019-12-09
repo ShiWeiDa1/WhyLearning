@@ -11,7 +11,7 @@ import com.regan.bean.Employee;
  * @author regan
  *
  */
-public class TestStreamApi {
+public class StreamApiTest {
 
 	@Test
 	public void testCreateStream() {
@@ -19,6 +19,7 @@ public class TestStreamApi {
 		 * Stream 的创建方式
 		 */
 		//1.Stream.of的方式创建流
+
 		Stream stream = Stream.of("1","tom",3,"sandy");
 		
 		//
