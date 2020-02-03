@@ -2,38 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87467062-da21-4224-8219-45f726738e8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnJava8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/eclipseCodeFormatter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamApi/StreamApi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StreamApi/src/com/regan/optional/TestOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamApi/src/com/regan/optional/OptionalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StreamApi/src/com/regan/stream/TestStreamApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StreamApi/src/com/regan/stream/StreamApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/DotThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Parcel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Parcel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/interfacetest/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/interfacetest/interface1Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/model/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/test/AtomiclntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/regan/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -53,7 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UjZcJxKd5yfWFMLUHiLqez4Jcn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,27 +59,88 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="D:/Project/20191108/data-jnc" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.sqlOptions" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.User">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.regan.Main" />
+    <configuration name="DotThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.innerclasses.DotThis" />
       <module name="OnJava8" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regan.innerclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interface1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.interfacetest.Interface1" />
+      <module name="OnJava8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regan.interfacetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.innerclasses.Sequence" />
+      <module name="OnJava8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regan.innerclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.model.entity.User" />
+      <module name="OnJava8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regan.model.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interface1Impl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.interfacetest.interface1Impl" />
+      <module name="OnJava8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regan.interfacetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,7 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.interface1Impl" />
+        <item itemvalue="Application.Interface1" />
+        <item itemvalue="Application.DotThis" />
+        <item itemvalue="Application.Sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -142,21 +202,118 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575872042302</updated>
-      <workItem from="1575872047261" duration="465000" />
+      <workItem from="1575872047261" duration="2116000" />
+      <workItem from="1575883978288" duration="326000" />
+      <workItem from="1575884348202" duration="2869000" />
+      <workItem from="1575904792079" duration="2328000" />
+      <workItem from="1575940524942" duration="1007000" />
+      <workItem from="1575943194287" duration="5024000" />
+      <workItem from="1575971812375" duration="591000" />
+      <workItem from="1575989159433" duration="1808000" />
+      <workItem from="1576116102878" duration="6333000" />
+      <workItem from="1576202681683" duration="875000" />
     </task>
+    <task id="LOCAL-00001" summary="no message">
+      <created>1575872622530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575872622530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="no message" />
+    <option name="LAST_COMMIT_MESSAGE" value="no message" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="133" key="CommitChangelistDialog2" timestamp="1575872515488">
+    <state x="799" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1576149474628">
       <screen x="69" y="0" width="1851" height="1080" />
     </state>
-    <state x="586" y="133" key="CommitChangelistDialog2/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575872515488" />
-    <state x="774" y="297" key="FileChooserDialogImpl" timestamp="1575872579096">
+    <state x="799" y="259" key="#com.intellij.ide.util.MemberChooser/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576149474628" />
+    <state x="799" y="259" key="#com.intellij.ide.util.MemberChooser/69.0.1851.1080@69.0.1851.1080" timestamp="1575904959371" />
+    <state x="586" y="133" key="CommitChangelistDialog2" timestamp="1575872621499">
       <screen x="69" y="0" width="1851" height="1080" />
     </state>
-    <state x="774" y="297" key="FileChooserDialogImpl/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575872579096" />
+    <state x="586" y="133" key="CommitChangelistDialog2/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575872621499" />
+    <state x="774" y="297" key="FileChooserDialogImpl" timestamp="1576202959534">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="774" y="297" key="FileChooserDialogImpl/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576202959534" />
+    <state width="1791" height="366" key="GridCell.Tab.0.bottom" timestamp="1576199530247">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1791" height="366" key="GridCell.Tab.0.bottom/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576199530247" />
+    <state width="1808" height="287" key="GridCell.Tab.0.bottom/69.0.1851.1080@69.0.1851.1080" timestamp="1575905941780" />
+    <state width="1791" height="366" key="GridCell.Tab.0.center" timestamp="1576199530247">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1791" height="366" key="GridCell.Tab.0.center/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576199530247" />
+    <state width="1808" height="287" key="GridCell.Tab.0.center/69.0.1851.1080@69.0.1851.1080" timestamp="1575905941780" />
+    <state width="1791" height="366" key="GridCell.Tab.0.left" timestamp="1576199530247">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1791" height="366" key="GridCell.Tab.0.left/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576199530247" />
+    <state width="1808" height="287" key="GridCell.Tab.0.left/69.0.1851.1080@69.0.1851.1080" timestamp="1575905941780" />
+    <state width="1791" height="366" key="GridCell.Tab.0.right" timestamp="1576199530247">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1791" height="366" key="GridCell.Tab.0.right/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576199530247" />
+    <state width="1808" height="287" key="GridCell.Tab.0.right/69.0.1851.1080@69.0.1851.1080" timestamp="1575905941780" />
+    <state width="1808" height="354" key="GridCell.Tab.1.bottom" timestamp="1575947192772">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1808" height="354" key="GridCell.Tab.1.bottom/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947192772" />
+    <state width="1808" height="354" key="GridCell.Tab.1.bottom/69.0.1851.1080@69.0.1851.1080" timestamp="1575905856335" />
+    <state width="1808" height="354" key="GridCell.Tab.1.center" timestamp="1575947192772">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1808" height="354" key="GridCell.Tab.1.center/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947192772" />
+    <state width="1808" height="354" key="GridCell.Tab.1.center/69.0.1851.1080@69.0.1851.1080" timestamp="1575905856335" />
+    <state width="1808" height="354" key="GridCell.Tab.1.left" timestamp="1575947192772">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1808" height="354" key="GridCell.Tab.1.left/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947192772" />
+    <state width="1808" height="354" key="GridCell.Tab.1.left/69.0.1851.1080@69.0.1851.1080" timestamp="1575905856335" />
+    <state width="1808" height="354" key="GridCell.Tab.1.right" timestamp="1575947192772">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1808" height="354" key="GridCell.Tab.1.right/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947192772" />
+    <state width="1808" height="354" key="GridCell.Tab.1.right/69.0.1851.1080@69.0.1851.1080" timestamp="1575905856335" />
+    <state x="482" y="149" key="SettingsEditor" timestamp="1575967962886">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="482" y="149" key="SettingsEditor/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575967962886" />
+    <state x="586" y="275" key="Vcs.Push.Dialog.v2" timestamp="1575872953056">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="586" y="275" key="Vcs.Push.Dialog.v2/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575872953056" />
+    <state x="690" y="341" key="git4idea.merge.GitPullDialog" timestamp="1575872675583">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="690" y="341" key="git4idea.merge.GitPullDialog/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575872675583" />
+    <state x="840" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1575947028138">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="840" y="401" width="672" height="678" key="search.everywhere.popup/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947028138" />
+    <state x="840" y="401" key="search.everywhere.popup/69.0.1851.1080@69.0.1851.1080" timestamp="1575906019077" />
   </component>
 </project>
