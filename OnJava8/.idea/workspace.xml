@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87467062-da21-4224-8219-45f726738e8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/DotThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Parcel1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Parcel2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/interfacetest/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/interfacetest/interface1Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/model/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regan/test/AtomiclntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/collections/ListFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/BigEgg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Callbacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/innerclasses/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/typeinfo/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/typeinfo/SweetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regan/typeinfo/toys/ToyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/regan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OnJava8/com/regan/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,18 +57,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Project/20191108/data-jnc" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.sqlOptions" />
+    <property name="last_opened_file_path" value="D:/Project/20200114-365-sf/data-jnc" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.User">
+  <component name="RunManager" selected="Application.ToyTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="DotThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.regan.innerclasses.DotThis" />
+    <configuration name="BigEgg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.innerclasses.BigEgg" />
       <module name="OnJava8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -83,13 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.regan.interfacetest.Interface1" />
+    <configuration name="Callbacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.innerclasses.Callbacks" />
       <module name="OnJava8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.regan.interfacetest.*" />
+          <option name="PATTERN" value="com.regan.innerclasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,13 +95,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.regan.innerclasses.Sequence" />
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.typeinfo.Shapes" />
       <module name="OnJava8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.regan.innerclasses.*" />
+          <option name="PATTERN" value="com.regan.typeinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regan.typeinfo.toys.ToyTest" />
+      <module name="OnJava8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regan.typeinfo.toys.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,20 +139,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="interface1Impl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.regan.interfacetest.interface1Impl" />
-      <module name="OnJava8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.regan.interfacetest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToyTest" />
+        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.BigEgg" />
+        <item itemvalue="Application.Callbacks" />
         <item itemvalue="Application.User" />
-        <item itemvalue="Application.interface1Impl" />
-        <item itemvalue="Application.Interface1" />
-        <item itemvalue="Application.DotThis" />
-        <item itemvalue="Application.Sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +210,9 @@
       <workItem from="1575989159433" duration="1808000" />
       <workItem from="1576116102878" duration="6333000" />
       <workItem from="1576202681683" duration="875000" />
+      <workItem from="1580693037724" duration="13166000" />
+      <workItem from="1580870482756" duration="1197000" />
+      <workItem from="1581304402394" duration="1188000" />
     </task>
     <task id="LOCAL-00001" summary="no message">
       <created>1575872622530</created>
@@ -245,63 +246,74 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="799" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1576149474628">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state x="803" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1580706572610">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state x="799" y="259" key="#com.intellij.ide.util.MemberChooser/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576149474628" />
     <state x="799" y="259" key="#com.intellij.ide.util.MemberChooser/69.0.1851.1080@69.0.1851.1080" timestamp="1575904959371" />
+    <state x="803" y="259" key="#com.intellij.ide.util.MemberChooser/75.0.1845.1080@75.0.1845.1080" timestamp="1580706572610" />
     <state x="586" y="133" key="CommitChangelistDialog2" timestamp="1575872621499">
       <screen x="69" y="0" width="1851" height="1080" />
     </state>
     <state x="586" y="133" key="CommitChangelistDialog2/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575872621499" />
-    <state x="774" y="297" key="FileChooserDialogImpl" timestamp="1576202959534">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state x="778" y="297" key="FileChooserDialogImpl" timestamp="1580727042026">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state x="774" y="297" key="FileChooserDialogImpl/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576202959534" />
-    <state width="1791" height="366" key="GridCell.Tab.0.bottom" timestamp="1576199530247">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state x="778" y="297" key="FileChooserDialogImpl/75.0.1845.1080@75.0.1845.1080" timestamp="1580727042026" />
+    <state width="1802" height="225" key="GridCell.Tab.0.bottom" timestamp="1580718928128">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1791" height="366" key="GridCell.Tab.0.bottom/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576199530247" />
     <state width="1808" height="287" key="GridCell.Tab.0.bottom/69.0.1851.1080@69.0.1851.1080" timestamp="1575905941780" />
-    <state width="1791" height="366" key="GridCell.Tab.0.center" timestamp="1576199530247">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state width="1802" height="225" key="GridCell.Tab.0.bottom/75.0.1845.1080@75.0.1845.1080" timestamp="1580718928128" />
+    <state width="1802" height="225" key="GridCell.Tab.0.center" timestamp="1580718928127">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1791" height="366" key="GridCell.Tab.0.center/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576199530247" />
     <state width="1808" height="287" key="GridCell.Tab.0.center/69.0.1851.1080@69.0.1851.1080" timestamp="1575905941780" />
-    <state width="1791" height="366" key="GridCell.Tab.0.left" timestamp="1576199530247">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state width="1802" height="225" key="GridCell.Tab.0.center/75.0.1845.1080@75.0.1845.1080" timestamp="1580718928127" />
+    <state width="1802" height="225" key="GridCell.Tab.0.left" timestamp="1580718928127">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1791" height="366" key="GridCell.Tab.0.left/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576199530247" />
     <state width="1808" height="287" key="GridCell.Tab.0.left/69.0.1851.1080@69.0.1851.1080" timestamp="1575905941780" />
-    <state width="1791" height="366" key="GridCell.Tab.0.right" timestamp="1576199530247">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state width="1802" height="225" key="GridCell.Tab.0.left/75.0.1845.1080@75.0.1845.1080" timestamp="1580718928127" />
+    <state width="1802" height="225" key="GridCell.Tab.0.right" timestamp="1580718928127">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1791" height="366" key="GridCell.Tab.0.right/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1576199530247" />
     <state width="1808" height="287" key="GridCell.Tab.0.right/69.0.1851.1080@69.0.1851.1080" timestamp="1575905941780" />
-    <state width="1808" height="354" key="GridCell.Tab.1.bottom" timestamp="1575947192772">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state width="1802" height="225" key="GridCell.Tab.0.right/75.0.1845.1080@75.0.1845.1080" timestamp="1580718928127" />
+    <state width="1785" height="354" key="GridCell.Tab.1.bottom" timestamp="1580706655788">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1808" height="354" key="GridCell.Tab.1.bottom/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947192772" />
     <state width="1808" height="354" key="GridCell.Tab.1.bottom/69.0.1851.1080@69.0.1851.1080" timestamp="1575905856335" />
-    <state width="1808" height="354" key="GridCell.Tab.1.center" timestamp="1575947192772">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state width="1785" height="354" key="GridCell.Tab.1.bottom/75.0.1845.1080@75.0.1845.1080" timestamp="1580706655788" />
+    <state width="1785" height="354" key="GridCell.Tab.1.center" timestamp="1580706655788">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1808" height="354" key="GridCell.Tab.1.center/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947192772" />
     <state width="1808" height="354" key="GridCell.Tab.1.center/69.0.1851.1080@69.0.1851.1080" timestamp="1575905856335" />
-    <state width="1808" height="354" key="GridCell.Tab.1.left" timestamp="1575947192772">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state width="1785" height="354" key="GridCell.Tab.1.center/75.0.1845.1080@75.0.1845.1080" timestamp="1580706655788" />
+    <state width="1785" height="354" key="GridCell.Tab.1.left" timestamp="1580706655787">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1808" height="354" key="GridCell.Tab.1.left/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947192772" />
     <state width="1808" height="354" key="GridCell.Tab.1.left/69.0.1851.1080@69.0.1851.1080" timestamp="1575905856335" />
-    <state width="1808" height="354" key="GridCell.Tab.1.right" timestamp="1575947192772">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state width="1785" height="354" key="GridCell.Tab.1.left/75.0.1845.1080@75.0.1845.1080" timestamp="1580706655787" />
+    <state width="1785" height="354" key="GridCell.Tab.1.right" timestamp="1580706655788">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1808" height="354" key="GridCell.Tab.1.right/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947192772" />
     <state width="1808" height="354" key="GridCell.Tab.1.right/69.0.1851.1080@69.0.1851.1080" timestamp="1575905856335" />
-    <state x="482" y="149" key="SettingsEditor" timestamp="1575967962886">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state width="1785" height="354" key="GridCell.Tab.1.right/75.0.1845.1080@75.0.1845.1080" timestamp="1580706655788" />
+    <state x="487" y="149" key="SettingsEditor" timestamp="1580706382667">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state x="482" y="149" key="SettingsEditor/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575967962886" />
+    <state x="487" y="149" key="SettingsEditor/75.0.1845.1080@75.0.1845.1080" timestamp="1580706382667" />
     <state x="586" y="275" key="Vcs.Push.Dialog.v2" timestamp="1575872953056">
       <screen x="69" y="0" width="1851" height="1080" />
     </state>
@@ -310,10 +322,11 @@
       <screen x="69" y="0" width="1851" height="1080" />
     </state>
     <state x="690" y="341" key="git4idea.merge.GitPullDialog/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575872675583" />
-    <state x="840" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1575947028138">
-      <screen x="69" y="0" width="1851" height="1080" />
+    <state x="844" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1580697151654">
+      <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state x="840" y="401" width="672" height="678" key="search.everywhere.popup/1989.5.1851.1080/69.0.1851.1080@69.0.1851.1080" timestamp="1575947028138" />
     <state x="840" y="401" key="search.everywhere.popup/69.0.1851.1080@69.0.1851.1080" timestamp="1575906019077" />
+    <state x="844" y="401" width="672" height="678" key="search.everywhere.popup/75.0.1845.1080@75.0.1845.1080" timestamp="1580697151654" />
   </component>
 </project>
